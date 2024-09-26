@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    /* text-decoration: none; */
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 45px;
+    color: white;
+    padding: 12px 12px 12px 12px;
+    
+}
+li:hover{
+    font-weight: bold;
+    color: grey;
+    transition: 0.2s;
+    margin-right: 12px;
+    margin-left: 12px;
+}
+ul{
+    
+    background-color: black;
+    align-content: center;
+    border-radius: 8px;
+}
